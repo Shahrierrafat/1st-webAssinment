@@ -1,0 +1,42 @@
+p{
+     font-family: monospace;
+}
+body{
+     font-family: 'Lobster', cursive;
+}
+.color-line{
+border-left-color: seagreen;
+}
+.fontcolor-classy{
+     color: black;
+}
+.fontcolor-blue{
+     color: rgb(170, 13, 65);
+}
+section{
+     display: flex;
+     
+}
+.pagesize1{
+     font-size: x-large;
+     padding-left: 3%;
+     width: 45%;
+}
+.pagesize2{
+     width: 100%;
+     width: 600px;
+     height: 300px;
+}
+.explore-button{
+     text-decoration: none;
+     background-color: rgba(243, 39, 80, 0.836);
+     color: white;
+     background-image: linear-gradient(rgba(180, 28, 58, 0.658),rgba(216, 50, 28, 0.842));
+     padding: 1% 1%;
+     border-radius: 8%;
+     font-family: 'Times New Roman';
+}
+#background-img{
+     background-image: url(images/shapes/shape-2.png);
+     background-repeat: no-repeat;
+}
