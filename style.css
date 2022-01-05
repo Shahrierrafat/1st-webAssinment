@@ -5,7 +5,10 @@ body{
      font-family: 'Lobster', cursive;
 }
 .color-line{
-border-left-color: seagreen;
+display: flexbox;
+border-left: 7px solid;
+border-image-slice: 1;
+border-left-color: rgb(170, 13, 65);
 }
 .fontcolor-classy{
      color: black;
