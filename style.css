@@ -208,6 +208,9 @@ flex-direction: row;
 padding-block-start: 10%;
 padding-left: 5%;
 }
+.two-red{
+     color: rgb(170, 13, 65);
+}
 .mission2022{
      width: 100%;
      padding-left: 45%;
