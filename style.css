@@ -15,6 +15,7 @@ border-left-color: rgb(170, 13, 65);
 }
 .fontcolor-blue{
      color: rgb(170, 13, 65);
+   
 }
 section{
      display: flex;
@@ -27,8 +28,8 @@ section{
 }
 .pagesize2{
      width: 100%;
-     width: 600px;
-     height: 300px;
+     width: 400px;
+     height: 200px;
 }
 .explore-button{
      text-decoration: none;
@@ -42,4 +43,57 @@ section{
 #background-img{
      background-image: url(images/shapes/shape-2.png);
      background-repeat: no-repeat;
+}
+.line-2nd{
+     padding-block-start: 17%;
+     padding-left: 40%;
+}
+#year-color{
+     color: rgb(170, 13, 65);
+     ;
+}
+.showstyle{
+     display: flex;
+     flex-direction: row;
+}
+.mission{
+     margin-left: 15%;
+     width: 12%;
+     padding-left: 5%;
+     background-color: lightblue;
+     padding-right: 60px;
+     padding-bottom: 20px;
+     border-radius: 10%;     
+     
+}
+.mission-img{
+     width: 175px;
+     height: 150px;
+
+}
+.vission{
+     margin-left: 3%;
+     width: 12%;
+     padding-left: 5%;
+     background-color: lightcoral;
+     padding-right: 60px;
+     padding-bottom: 20px;
+     border-radius: 10%;  
+}
+.vission-img{
+     width: 175px;
+     height: 150px;  
+}
+.Goals{
+     margin-left: 3%;
+     width: 12%;
+     padding-left: 5%;
+     background-color: rgb(211, 211, 179);
+     padding-right: 60px;
+     padding-bottom: 20px;
+     border-radius: 10%;
+}
+.goals-img{
+     width: 175px;
+     height: 150px;  
 }
